@@ -195,4 +195,4 @@ npm run deploy:prod     # Deploy em produção
 ---
 
 ## Licença
-© 2026 Escola Estadual do Cariri - Todos os direitos reservados
+ 2026 Escola Estadual do Cariri - Todos os direitos reservados
